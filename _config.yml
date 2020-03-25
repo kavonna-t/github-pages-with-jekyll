@@ -1,13 +1,11 @@
-title: Your awesome title
-author: GitHub User
+title: Life with Kavonna
+author: kavonna-t
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Life is busy and often times it feels overwhelming.  I'm here to help you find ways to make life easier.  I can help you find a way to shortcut your favorite recipe, work though organizational challenges, or simply give you the tools to just get through a busy day. 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: kavonna-t # DO NOT include the @ character, or else the build will fail!
+github_username:  kavonna-t # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
