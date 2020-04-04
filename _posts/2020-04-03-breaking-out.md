@@ -1,0 +1,9 @@
+---
+
+title: "Breaking Out"
+
+date: 2020-04-03
+
+---
+
+Today marked three weeks of our family staying home amid Covid-19. On a perfect 71-degree day, I decided to plan a responsible jail break for our family. After all, it's a nice day and we've been good! I have planned and cooked meals for three consecutive weeks and quite frankly I wanted a break.  I made the decision to support a restaurant via carryout order/curbside delivery and set our budget for $50. The fun part was getting everyone in the house to agree on a restaurant. One would think the option to have takeout food would be an easy decision, right? It took an hour for our family to decide! There were votes for Thai food, pizza, Mexican food, and BBQ. I immediately vetoed pizza and Mexican food, as we prepared these meals in our home over the past three weeks. Thai food was an option until we realized it would be an expensive option and we were trying to keep the meal under $50. When we considered BBQ, the suggestion was made that we could BBQ at home and enjoy the outdoors. This was a sensible idea; however, I did not want to cook.  In keeping with the BBQ theme, I suggested we simply go out for burgers. Yes, burgers. I realized we have not had burgers in over a month. Now, that's a treat! I gathered my family and we enjoyed a drive with the windows down. Being out in the fresh air wearing our favorite sunglasses was rejuvenating! We went to Culver's and I made the suggestion that we check into pre-packed ice cream pints. To our surprise, they had the flavors we desired. We placed an order for burgers and ice cream pints. We decided no fries or drinks, as we had plenty of those at home. While sitting in the parking lot waiting on our order, we chatted and smiled. As a family, we agreed the three weeks we have spent together have not been that bad. Between the movies, board games, tv shows, and home exercise routines, we realized the time spent together has been very much needed.
