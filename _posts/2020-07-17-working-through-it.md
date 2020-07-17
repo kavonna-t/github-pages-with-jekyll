@@ -1,6 +1,7 @@
+---
 title: "Working Through It"
-
 date: 2020-07-17
+---
 
 So much has been going on in the world over the past three months! In the midst of a pandemic, there have been demonstrations against inequality, racial injustice, and the failures within the criminal justice system.
 Positive cases for Covid-19 have dramatically increased in the United States, unemployment is high and people are reintegrating into society. Schools are planning to reopen via online or traditional in-person instruction while students
