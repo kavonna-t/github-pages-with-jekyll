@@ -3,7 +3,7 @@ author: kavonna-t
 description: > # this means to ignore newlines until "baseurl:"
   Life is busy and often times it feels overwhelming.  I'm here to help you find ways to make life easier.  I can help you find a way to shortcut your favorite recipe, work through organizational challenges, or simply give you the tools to just get through a busy day. 
 # social links
-twitter_username: kavonna_t # DO NOT include the @ character, or else the build will fail!
+twitter_username: kavtiggs # DO NOT include the @ character, or else the build will fail!
 github_username:  kavonna-t # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
